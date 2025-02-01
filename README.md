@@ -5,12 +5,18 @@ A Convolutional Neural Network (CNN) model built with TensorFlow/Keras to classi
 
 
 🔹 Tech Stack Used: Python, TensorFlow/Keras, OpenCV, NumPy, Matplotlib
+
 🔹 Dataset: A collection of plastic waste images categorized into various types
+
 🔹 Objective: Improve waste management efficiency by enabling automated plastic classification
+
 🔹 Key Steps:
 ✅ Data Preprocessing & Augmentation 📊
+
 ✅ Model Architecture Design 🏗️
+
 ✅ Training & Performance Evaluation 📈
+
 ✅ Deployment & Real-World Applications 🚀
 
 This project highlights the potential of AI in sustainability, helping in automated recycling and environmental conservation. 🌱
